@@ -2,7 +2,7 @@ from turtle import*
 clr=["black","violet","purple","red","pink","blue","yellow","orange"]
 pensize(3)
 for n in clr:
-	color("black",n)
+	color("black")
 	begin_fill()
 	circle(60)
 	circle(70)
