@@ -7,7 +7,7 @@ player_a_score = 0
 player_b_score = 0
 
 win = t.Screen()    # creating a window
-win.title("Ping-Pong Game") # Giving name to the game.
+win.title("Ping-PongBall Game") # Giving name to the game.
 win.bgcolor('black')    # providing color to the HomeScreen
 win.setup(width=800,height=600) # Size of the game panel 
 win.tracer(0)   # which speed up's the game.
